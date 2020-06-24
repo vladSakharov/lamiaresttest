@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LamiaRestTest", "LamiaRestTest\LamiaRestTest.csproj", "{D1A472F7-B004-4847-9230-3AB01DB1428B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1A472F7-B004-4847-9230-3AB01DB1428B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A472F7-B004-4847-9230-3AB01DB1428B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A472F7-B004-4847-9230-3AB01DB1428B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A472F7-B004-4847-9230-3AB01DB1428B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0063DC15-4605-4C6E-91E5-FBD950DD2DCD}
+	EndGlobalSection
+EndGlobal
